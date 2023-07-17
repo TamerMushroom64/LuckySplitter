@@ -1,2 +1,13 @@
 # LuckySplitter
-![Lucky](https://github.com/TamerMushroom64/LuckySplitter/assets/89033986/70536a04-ba3b-45a3-ad4e-355d0f65bcc7)
+**An AutoSplitter for Google Doodle: Champion Island Games**
+
+  Some very janky AutoHotkey scripts I put together in a day and a half. 
+Does work though!
+
+_Video tutorial coming soon_
+
+![Lucky](https://github.com/TamerMushroom64/LuckySplitter/assets/89033986/522e6bd1-4f3c-4ad1-8423-7bd859b15a10)
+
+
+Credit to lenszel and jojoe in Javacord for AHK help
+(also ChatGPT for giving me a rough draft of _almost_ working code)
